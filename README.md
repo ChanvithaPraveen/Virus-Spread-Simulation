@@ -1,2 +1,6 @@
-# Virus-Spread-Simulation
-This project developed to analyze the spread of the COVID-19 virus in a conceptual community with a population of one million.
+# quest_09
+
+It takes around 4-5 minutes to simulate 50 days for 1 000 000 people.
+Please wait.
+
+
