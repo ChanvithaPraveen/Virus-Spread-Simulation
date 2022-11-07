@@ -9,9 +9,9 @@
 <h4 align="center">This project developed to analyze the spread of the COVID-19 virus in a conceptual community with a population of one million.</h4>
 
 <p align="center">
-  <a href="https://"><img src="https://img.shields.io/badge/language-Java-2ea44f?logo=java" alt="language - Java"></a>
-  <a href="https://"><img src="https://img.shields.io/badge/Simple GUI application-localhost-orange?logo=IDE" alt="GUI application"></a>
-  <a href="https://"><img src="https://img.shields.io/badge/data-MySQL-yellow?logo=IDE" alt="MySQL"></a>
+  <a href="https://"><img src="https://img.shields.io/badge/language-Python-2ea44f?logo=java" alt="language - Python"></a>
+  <a href="https://"><img src="https://img.shields.io/badge/Libraries-Pandas,Matplotlib,Simulation-blue?logo=IDE" alt="GUI application"></a>
+  <a href="https://"><img src="https://img.shields.io/badge/Dataset-csv_file-yellow?logo=IDE" alt="MySQL"></a>
   <br>
   <a href="#description">Description</a> *
   <a href="#functionalities">Functionalities</a> *
